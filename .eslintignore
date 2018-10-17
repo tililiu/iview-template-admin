@@ -1,0 +1,6 @@
+src/vendors
+build
+router.js
+src/api
+src/libs
+src/utils
